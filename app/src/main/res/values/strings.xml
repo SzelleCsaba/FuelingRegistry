@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tankolás Nyilvántartás</string>
+    <string name="name">Név</string>
+    <string name="description">Leírás</string>
+    <string name="new_car">Új Autó</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Mégse</string>
+    <string name="capacity">Üzemanyagtartály mérete (L)</string>
+    <string name="amount">Mennyiség (L)</string>
+    <string name="price_per_liter">Egységár (Ft/L)</string>
+    <string name="odometer">Kilóméteróra (km)</string>
+    <string name="type">Üzemanyag típusa</string>
+    <string name="full_tank">Teli tank</string>
+    <string name="date">Dátum</string>
+    <string name="new_fueling">Új Tankolás</string>
+    <string name="trip_length">Trip Kilóméter</string>
+    <string name="car_name">%s Tankolásai</string>
+
+    <string-array name="type_items">
+        <item>95 Benzin</item>
+        <item>Dízel</item>
+        <item>100 Benzin</item>
+        <item>Prémium Dízel</item>
+    </string-array>
+
+</resources>
